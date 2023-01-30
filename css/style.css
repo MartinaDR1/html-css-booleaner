@@ -27,3 +27,16 @@ span{
 .photo{
     line-height: 0%;
 }
+
+thead{
+    background-color: #1aabe6;
+    color: white;
+}
+
+.table-blue{
+    background-color: rgba(26, 171, 230, 0.4)
+}
+
+span{
+    background-color: yellow;
+}
