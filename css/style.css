@@ -10,5 +10,16 @@ body{
     
 }
 
+h1 {
+    font-weight:bolder;
+    font-size: 40px;
+}
 
+.editors{
+    color: #898989;
+    line-height: 0px;
+}
 
+span{
+    color: #2fb2e7
+}
