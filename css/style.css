@@ -1,0 +1,14 @@
+body{
+    font-family: 'Roboto Serif', serif;
+}
+
+.logo {
+    background-image: url(../img/pattern.png);
+    background-color: #4da1ff;
+    height: 109px;
+    color: #f6f8f9;
+    
+}
+
+
+
